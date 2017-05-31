@@ -1,0 +1,9 @@
+- Tên d? tài: trang web bán hàng
+
+- lý do ch?n d? tài: bu?c d?u làm quen v?i ngôn ng? PHP
+nên nhóm ch?n d? tài này nh?m qu?n lý t?t các m?t hàng
+cung nhu d?t k?t qu? t?t nh?t
+
+- ch?c nang chính : c?p nh?t, mua hàng, bán hàng ...
+
+- ngôn ng? PHP
