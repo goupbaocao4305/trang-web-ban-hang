@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;
+}
+.menu ul{
+	width:100%;
+	height:30px;
+	list-style:none;
+}
+.wrapper{
+	width:1440px;
+	height:auto;
+	border:1px solid #000;
+	margin:auto;
+}
+.header{
+	width:100%;
+	height:200px;
+	border:1px solid #000;
+}
+.menu {
+	width:100%;
+	height:50px;
+	border:1px solid #003;
+	
+}
+.menu ul{
+	
+	width:100%;
+}
+.menu ul li{
+	float:left;
+	line-height:50px;
+	
+}
+.menu ul li a{
+	
+	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left:100px;
+}
+.menu a:hover{
+	text-decoration:underline;
+}
+.content{
+	width:100%;
+	height:auto;
+
+}
+.left{
+	width:240px;
+	height: auto;
+	border:1px solid #000;
+	float:left;
+	
+}
+.tacpham ul{
+	width:100%;
+	height:auto;
+	list-style:none;
+	font-size: large;
+}
+.tacpham ul li{
+	margin-left:30px;
+	margin:10px;
+}
+.tacpham a{
+	text-decoration:none;
+	color:#000;
+}
+.tacpham a:hover{
+	color:#F00;
+}
+.right{
+	width:1180px;
+	height:auto;
+	border:1px solid #000;
+	float: right;
+}
+.tacphamall ul{
+	width:100%;
+	list-style:none;
+	margin-left:30px;
+}
+.tacphamall ul li{
+	width:auto;
+	height:auto;
+	text-align: center;
+	float: left;
+	margin:10px;
+	
+}
+.tacphamall ul li a{
+	text-decoration:none;
+	font-size:75%;
+	
+}
+.clear{
+	clear:both;
+}
+.footer{
+	width:100%;
+	height:80px;
+	border:1px solid #000;
+}
