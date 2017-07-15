@@ -8,59 +8,64 @@ table{
 	margin:0;
 }
 .wrapper{
-	width:1500px;
+	width:1400px;
 	height:auto;
 	border:1px solid #000;
 	margin:auto;
 }
-.header{
-	width:100%;
-	height: auto;
-	border:1px solid#000;
-}
-.menu{
-	width:100%;
-	height:40px;
-	border:1px solid #000;
-}
 .menu ul{
 	width:100%;
-	height:40px;
+	height:30px;
 	list-style:none;
 }
+.header{
+	width:100%;
+	height:200px;
+	border:1px solid #000;
+}
+.menu {
+	width:100%;
+	height:50px;
+	border:1px solid #003;
+	
+}
+.menu ul{
+    width:100%;
+}
 .menu ul li{
-	width:200px;
-	height:40px;
-	line-height:40px;
 	float:left;
+	line-height:50px;
+	
 }
-.menu ul li a{
-	text-decoration:none;
+.menu ul li a{	
 	color:#000;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left:100px;
 }
-.menu a:hover{
-	color:#F00;
+
+.content{	
+	width:100%;
+	height:auto;
+	
+
 }
 .left{
-	
+	width:auto;
 	height:auto;
 	border:1px solid #000;
 	float:left;
 	
+	margin-bottom:50px;
 }
 .right{
-	
+	width:auto;
 	height:auto;
 	border:1px solid #000;
 	float: left;
-	margin-left:10px;
-	
+	margin-left:50px;
 }
-.content{
-	width: auto;
-	height:auto;
-	border:1px solid #000;
-}
+
 .clear{
 	clear:both;
 }
