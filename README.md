@@ -68,6 +68,11 @@ Tài liệu cho nhà phát triển : https://github.com/goupbaocao4305/trang-web
 
 Xem tại đây
 
+# Tài Liệu Cho Nhà Phát Triển
+Cơ sở dữ liệu MySQL: [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=4E02x2f_nNA&list=PL0tU2lrI2Ts4FvQJv52MU-7qhoOXa3lXT)
+Kết nối php tới cơ sở dữ liệu MYSQL: [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=oyC-wafTGps&t=98s)(https://www.youtube.com/watch?v=d1KiuWnqBPs)
+Lập trình PHP:  [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1)
+
 
 ## Lời cảm ơn
 
