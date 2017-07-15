@@ -61,7 +61,12 @@ WordPress là một mã nguồn mở bằng ngôn ngữ PHP để hỗ trợ t�
 
 
 
+## Tài liệu cho nhà phát triển
 
+Tài liệu cho nhà phát triển : https://github.com/goupbaocao4305/trang-web-ban-hang/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A0%20ph%C3%A1t%20tri%E1%BB%85n
+
+
+Xem tại đây
 
 
 ## Lời cảm ơn
