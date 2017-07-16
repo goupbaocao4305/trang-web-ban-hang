@@ -9,7 +9,7 @@
 ![erd](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/H%C3%ACnh/CSDL.png)
 #### Mô tả:
 - CSDL: Cơ Sở Dữ Liệu
-![erd](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/H%C3%ACnh/CSDL.png)
+
 ### 2) CT_HoaDon
 ![erd](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/H%C3%ACnh/CT_HoaDon.png)
 #### Mô tả:
