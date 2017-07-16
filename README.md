@@ -78,14 +78,9 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 
 ## Tài liệu cho nhà phát triển
 
-Tài liệu cho nhà phát triển : https://github.com/goupbaocao4305/trang-web-ban-hang/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20nh%C3%A0%20ph%C3%A1t%20tri%E1%BB%85n
 
 
-Xem tại đây
-
-Cơ sở dữ liệu MySQL: [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=4E02x2f_nNA&list=PL0tU2lrI2Ts4FvQJv52MU-7qhoOXa3lXT)
-Kết nối php tới cơ sở dữ liệu MYSQL: [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=oyC-wafTGps&t=98s)(https://www.youtube.com/watch?v=d1KiuWnqBPs)
-Lập trình PHP:  [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=3yJeeub-6RY&list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1)
+ [XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Cho%20Nh%C3%A0%20Ph%C3%A1t%20Tri%E1%BB%85n)
 
 # Kênh Truyền Thông
 fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng-Aspnet-186587715212966/?notif_t=page_invite_accepted&notif_id=1500185312002536/)
