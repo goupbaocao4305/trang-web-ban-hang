@@ -74,13 +74,12 @@ WordPress là một mã nguồn mở bằng ngôn ngữ PHP để hỗ trợ t�
 Đưa ra các quy ước khi coding với ngôn ngữ lập trình C#, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm.
 Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.
 
-
+## Tài Liệu Thiết Kế
+[XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Th%E1%BA%BFt%20K%E1%BA%BF)
 
 ## Tài liệu cho nhà phát triển
 
-
-
- [XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Cho%20Nh%C3%A0%20Ph%C3%A1t%20Tri%E1%BB%85n)
+[XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Cho%20Nh%C3%A0%20Ph%C3%A1t%20Tri%E1%BB%85n)
 
 # Kênh Truyền Thông
 fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng-Aspnet-186587715212966/?notif_t=page_invite_accepted&notif_id=1500185312002536/)
