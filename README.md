@@ -25,12 +25,17 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 
 ## Kiến thức áp dụng
- https://www.w3schools.com/
- http://hocwebchuan.com/tutorial/tut_html_combine.php
-http://jqueryui.com/menu/#categories
-	+ Công cụ lập trình: Notepat++, Adobe Dreamweaver, phpDesigner 8.
-	+ Cơ sở dữ liệu: My SQL
-	+ Ngôn ngữ lập trình: HTML, CSS, PHP, Javascript, Jquery,…<br />
+* Sử dụng các control cơ bản và nâng cao trong Webform. 
+* DataGridView, DataSet, DataTable, DataRow.
+* Phân tích thiết kế hệ thống cơ sở dữ liệu.
+* Phân tích thiết kế giao diện.
+* Trigger SQL.
+* Procedure, function SQL.
+* Kết nối SQL server với ứng dụng winform.
+* Chuyển data giữa các form.
+* Phân quyền người dùng trên ứng dụng.
+* DataBiding cơ bản và nâng cao.
+* Thêm, xóa, sửa dữ liệu từ trang quản trị.
 
 
 ## Triển khai
@@ -40,8 +45,17 @@ http://jqueryui.com/menu/#categories
 ## Nền tảng xây dựng
 
 *  Nền tảng hệ thống phần mềm
+Công nghệ .NET được dùng để xây dựng các ứng dụng Web là ASP.NET, nó cung cấp hai vùng tên khá mạnh và đầy đủ phục vụ cho việc tạo các ứng dụng Web là System.Webvà System.Web.UI. Trong phần này chúng ta sẽ tập trung chủ yếu vào việc dùng ngôn ngữ C# để lập trình với ASP.NET.
 
-PHP (viết tắt hồi quy "PHP: Hypertext Preprocessor") Nền tảng hệ thống phần mềm là một ngôn ngữ lập trình kịch bản hay một loại mã lệnh chủ yếu được dùng để phát triển các ứng dụng viết cho máy chủ, mã nguồn mở, dùng cho mục đích tổng quát. Nó rất thích hợp với web và có thể dễ dàng nhúng vào trang HTML. Do được tối ưu hóa cho các ứng dụng web, tốc độ nhanh, nhỏ gọn, cú pháp giống C và Java, dễ học và thời gian xây dựng sản phẩm tương đối ngắn hơn so với các ngôn ngữ khác nên PHP đã nhanh chóng trở thành một ngôn ngữ lập trình web phổ biến nhất thế giới.
+Bộ công cụ Web Form cũng được thiết kế để hỗ trợ mô hình phát triển nhanh (RAD). Với Web Form, ta có thể kéo thả các điều khiển trên Form thiết kế cũng như có thể viết mã trực tiếp trong tập tin .aspxhay .aspx.cs. Ứng dụng Web sẽ được triển khai trên máy chủ, còn người dùng sẽ tương tác với ứng dụng thông qua trình duyệt. .NET còn hỗ trợ ta bộ cung cụ để tạo ra các ứng dụng tuân theo mô hình n - lớp (tầng - n tier), giúp ta có thể quản lý được ứng dụng được dễ dàng hơn và nhờ thế nâng cao hiệu suất phát triển phần mềm.
+
+eb Form là bộ công cụ cho phép thực thi các ứng dụng mà các trang Web do nó tạo động ra được phân phối đến trình duyệt thông qua mạng Internet.
+
+Với Web Forms, ta tạo ra các trang HTML với nội dung tĩnh và dùng mã C# chạy trên Server để xử lý dữ liệu tĩnh này rồi tạo ra trang Web động, gửi trang này về trình duyệt dưới mã HTML chuẩn.
+
+Web Forms được thiết để chạy trên bất kỳ trình duyệt nào, trang HTML gửi về sẽ được gọt giũa sao cho thích hợp với phiên bản của trình duyệt. Ngoài dùng C#, ta cũng có thể dùng ngôn ngữ VB.NET để tạo ra các ứng dụng Web tương tự.
+
+Web Forms chia giao diện người dùng thành hai phần : phần thấy trực quan ( hay UI) và phần trang mã phía sau của UI. Quan điểm này thì tương tự với Windows Form, nhưng với Web Forms, hai phần này nằm trên hai tập tin riêng biệt. Phần giao diện UI được lưu trữ trong tập tin có phần mở rộng là .aspx, còn mã được lưu trữ trong tập tin có phần mở rộng là .aspx.cs.
 
 SQL Server là một hệ quản lý cơ sở dữ liệu quan hệ được phát triển bởi Microsoft . Là một máy chủ cơ sở dữ liệu , nó là một sản phẩm phần mềm có chức năng chính lưu trữ và truy xuất dữ liệu theo yêu cầu của các ứng dụng phần mềm khác - có thể chạy trên cùng một máy tính hoặc trên một máy tính khác qua mạng 
 
@@ -57,7 +71,8 @@ WordPress là một mã nguồn mở bằng ngôn ngữ PHP để hỗ trợ t�
 
 ## Chuẩn Lập Trình
 
-Đưa ra các quy ước khi coding với ngôn ngữ lập trình PHP, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình PHP, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Adobe Dreamweaver, sublime Text, ....
+Đưa ra các quy ước khi coding với ngôn ngữ lập trình C#, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm.
+Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.
 
 
 
