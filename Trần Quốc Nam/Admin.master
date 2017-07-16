@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Tạp Hóa ACN</title>
+    <link href="css/Admin.css" rel="stylesheet" />
+    <link href="image/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="main">
+        <div id="top">
+            <asp:Label ID="lblChao" runat="server" Text="Label"></asp:Label>
+            <%--<a href="Default.aspx">Về trang chủ</a>--%>
+            <%--<asp:LinkButton ID="btnlogout" runat="server" OnClick="btnlogout_Click" CausesValidation="False">Thoát</asp:LinkButton>--%>
+        </div>
+        <div id="menu">
+            <ul>
+                <li><a href="Admin.aspx">Quản lý Hàng</a></li>
+                <li><a href="QuanLyTaiKhoan.aspx">Quản lý Tài khoản</a></li>
+                <li><a href="QuanLyHoaDon.aspx">Quản lý Hóa đơn</a></li>
+                <li><a href="ThongKeBaoCao.aspx">Thống kê - Báo cáo</a></li>
+                <li><a href="Default.aspx">Về Trang Chủ</a></li>
+                <li><asp:LinkButton ID="LinkButton1" runat="server" OnClick="btnlogout_Click" CausesValidation="False">Thoát</asp:LinkButton></li>
+            </ul>
+        </div>
+        <div id="content">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="footer">
+            <div style="float:right">
+                <span></span>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
