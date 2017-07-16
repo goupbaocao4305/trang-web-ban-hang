@@ -73,7 +73,7 @@ MySQL được sử dụng cho việc bổ trợ PHP, Perl, và nhiều ngôn ng
 Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.
 
 ## Tài Liệu Thiết Kế
-[XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Th%E1%BA%BFt%20K%E1%BA%BF)
+[XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0iLi%E1%BB%87uTh%E1%BA%BFtK%E1%BA%BF.md)
 
 ## Tài liệu cho nhà phát triển
 
