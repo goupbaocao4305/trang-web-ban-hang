@@ -90,6 +90,9 @@ Lập trình PHP:  [XEM TẠI ĐÂY](https://www.youtube.com/watch?v=3yJeeub-6RY
 # Kênh Truyền Thông
 fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng-Aspnet-186587715212966/?notif_t=page_invite_accepted&notif_id=1500185312002536/)
 
+# Đóng góp ý kiến
+[XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/Donggop)
+
 ## Lời cảm ơn
 
 
