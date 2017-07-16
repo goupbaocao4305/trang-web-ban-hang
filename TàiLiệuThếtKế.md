@@ -1,8 +1,6 @@
 # Tài liệu thiết kế
 Đây là tài liệu phân tích thiết kế hệ thống trước khi bắt tay và xây dựng phần mềm
 
-<p align="center"><img src="https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/H%C3%ACnh/CSDL1.png"></p>
-
 
 ## Sơ đồ thực thể - quan hệ (ERD)
 ![erd](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/H%C3%ACnh/CSDL1.png)
