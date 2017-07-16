@@ -1,0 +1,77 @@
+﻿.mask {
+    visibility:hidden;
+    top:50%;
+    left:20%;
+    position:absolute;
+    border-radius:5px;
+    box-shadow: 2px 2px 3px #ccc;
+    width:280px;
+    background: #f1f1f1;
+    z-index:1;
+    text-align:left;
+}
+    .mask .header {
+        padding: 10px 0 0 5px;
+        border-bottom: solid 2px #0D9C99;
+    }
+    .mask .header h3 {
+        margin:0;
+        padding-left:5px;
+    }
+    .mask .mota {
+        padding: 10px;
+    }
+.view {
+    position:relative;
+    text-align:center;
+    min-height:200px;
+    padding-top:20px;
+    top: 0px;
+    left: 0px;
+    width: 196px;
+    border: solid 1px #DDD;
+    border-radius:5px;
+}
+    .view:hover .mask {
+        visibility:visible;
+    }
+    .view div.ten {
+        color:black;
+        font-weight:bold;
+        padding:5px;
+    }
+    .view div.gia {
+        color:#CC0000;
+        font-weight:bold;
+        padding:5px;
+    }
+    .view .detail .gia {
+        bottom:10%; 
+        position:absolute; 
+        text-align:center; 
+        width:100%;
+    }
+    .view div.hinh img {
+        height: 90px;
+        padding:5px;
+    }
+.listproduct h3 {
+    color:#FFFFFF;
+    padding-left:5px;
+    padding-bottom:5px;
+    width:100%;
+    text-align: center;
+    background-color: #009933;
+}
+.listproduct .mask h3 {
+    color:#0D9C99;
+    border:none;
+}
+#ContentPlaceHolder1_DataList1 td,
+#ContentPlaceHolder1_DataList2 td,
+#ContentPlaceHolder1_DataList3 td,
+#ContentPlaceHolder1_DataList4 td,
+#ContentPlaceHolder1_DataList5 td,
+#ContentPlaceHolder1_DataList6 td {
+    width:200px;
+}

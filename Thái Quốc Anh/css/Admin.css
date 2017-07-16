@@ -1,0 +1,74 @@
+﻿body {
+    background:url(../image/bgr.jpg) no-repeat center top;
+    background-attachment:fixed;
+    font-family:Tahoma, Verdana, sans-serif;
+    font-size:12px;
+}
+div {
+    display:block;
+}
+a {
+    text-decoration:none;
+}
+#main {
+    width:1000px;
+    margin:0 auto;
+}
+#top {
+    width: 100%;
+    min-height: 25px;
+    font-weight:bold;
+    color:white;
+    text-align:right;
+    padding:20px 0;
+}
+    #top a {
+        color: white;
+        padding-left:10px;
+    }
+        #top a:hover {
+            color: #ff6a00;
+        }
+#menu {
+    width:100%;
+    min-height:25px;
+}
+    #menu ul {
+        margin-left:-40px;
+    }
+    #menu li {
+        list-style-type:none;
+        float:left;
+        display:inline;
+    }
+    #menu a {
+        color:white;
+        font-weight:bold;
+        padding:10px 30px;
+        background:#091e9c;
+        border-top-left-radius:5px;
+        border-top-right-radius:5px;
+        border-right:solid 1px #091e9c;
+    }
+        #menu a:hover {
+            background:red;
+        }
+#content {
+    width: 100%;
+    min-height: 500px;
+    background:white;
+    padding:10px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top-right-radius:20px;
+}
+    #content table {
+        margin: 10px 0;
+    }
+#footer {
+    width: 100%;
+    min-height: 25px;
+    color:white;
+    font-weight:bold;
+    padding:20px 0;
+}

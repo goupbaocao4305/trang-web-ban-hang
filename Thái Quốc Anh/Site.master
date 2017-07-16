@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<%@ Register src="control/top.ascx" tagname="top" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     
+    <title>Tạp Hóa ACN</title>
+    <link href="css/Site.css" rel="stylesheet" />
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <script src="js/main.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#backtop').hide();
+            $(window).scroll(function () {
+                if ($(window).scrollTop() != 0)
+                    $('#backtop').fadeIn();
+                else
+                    $('#backtop').fadeOut();
+            });
+            $('#backtop').click(function () {
+                $('html,body').animate({ scrollTop: 0 }, 500);
+            });
+        });
+    </script>
+    <style>
+        #backtop {
+            width: 30px;
+            height: 23px;
+            border-radius: 25px;
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            background: #D7720A;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding-top: 7px;
+            cursor:pointer;
+        }
+            #backtop:hover {
+                background:#00918D;
+            }
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="main">
+            <div id="top">
+                <uc1:top ID="top1" runat="server" />
+            </div>
+            <div id="logo-search">
+                
+                <div id="search">
+                    Tìm Kiếm Sản Phẩm<br />
+                    <asp:TextBox ID="txtSearch" runat="server" placeholder="Nhập từ khóa cần tìm"></asp:TextBox>
+                    <asp:ImageButton ID="btnSearch" runat="server" ImageUrl="~/image/search.png" Title="Tìm kiếm" OnClick="btnSearch_Click"/>
+                </div>
+            </div>
+            <div id="menu" style="background-color:#006600; height:40px;">
+                <ul>
+                    <li><a href="Default.aspx">Trang Chủ</a></li>
+                    <li><a href="Detail.aspx?dm=1">Bia</a></li>
+                    <li><a href="Detail.aspx?dm=5">Bánh Kẹo</a></li>
+                    <li><a href="Detail.aspx?dm=2">Sữa</a></li>
+                    <li><a href="Detail.aspx?dm=4">Quần Aó </a></li>
+                    <li><a href="Detail.aspx?dm=3">Đồ chơi</a></li>
+                    <li><a href="Detail.aspx?dm=6">Đồ Khô</a></li>
+                </ul>
+                <div id="cart">
+                    <a href="Cart.aspx" style="color:red;font-weight:bold;" title="Giỏ hàng">
+                        <asp:Label ID="lblSoSP" runat="server" Text="Label"></asp:Label> 
+                        <span style="color:black;font-weight:normal;"> sản phẩm</span>
+                    </a> 
+                </div>
+            </div>
+            <div id="banner">
+                <div id="slider">
+                    <div id="innerslide"></div>
+					    <script>
+					        $(document).ready(function (e) {
+					            makeslide('#innerslide', "");
+					        });
+                        </script>
+                </div>
+                &nbsp;</div>
+            <div id="content">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+       <div id="footer">
+  <div id="footerItems" class="col-md-12">
+    <div style="width: 12%;">TRỤ SỞ CHÍNH
+      <ul>
+        <li>✔ Địa Chỉ: 101, Mai Xuân Thưởng , Thành Phố Nha Trang</li> <br />
+        <li>✔ ĐT: 01629501146 </li>
+        <li>✔ Di Động: 01636 074 246</li>
+         <li>✔ <a href="mailto:taphoaacn@gmail.com" style="color:white">Email :taphoaacn@gmail.com</a></li>
+      </ul>
+    </div>
+    <div class="accountPos" class="col-md-3" style="padding-left: 9%;">XEM THÊM
+      <ul>
+        <li><a href="GioiThieu.aspx"  style="color:white">✔ Giới Thiệu</a> </li><br />
+        <li><a href="#"  style="color:white">✔ Mô Tả</li><br />
+        <li><a href="#"  style="color:white">✔ Hướng Dẫn</li><br />
+      </ul>
+    </div>
+    <div class="accountPos" style="padding-left: 9%;">GIẤY PHÉP
+      <ul>
+        <li>✔ Giấy phép hoạt động xuất bản số 1138/GP-BTTTT <br />ngày 01/05/2017 của Bộ Thông tin và truyền thông.</li><br />
+        <li>✔ Giấy chứng nhận đăng ký kinh doanh số 4104003288,
+            <br /> ngày 01/05/2017 của Phòng Đăng ký kinh doanh,<br /> Sở kế hoạch đầu tư thành phố Nha Trang.</li>
+        <br />
+      </ul>
+    </div>
+    
+    <div class="socialinks">
+      <div>
+        <img src="image/fb.png" style="width:40px; height:40px;" alt="f">Facebook
+      </div>
+      <div class="slinks">
+        <img src="image/tw.png" style="width:40px; height:40px;" alt="t">Twitter
+      </div>
+      <div class="slinks">
+        <img src="image/gg.png" style="width:40px; height:40px;" alt="g">Google+
+      </div>
+    </div>
+  </div>
+</div>
+    </form>
+</body>
+</html>
