@@ -81,6 +81,9 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 
 [XEM TẠI ĐÂY](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/T%C3%A0i%20Li%E1%BB%87u%20Cho%20Nh%C3%A0%20Ph%C3%A1t%20Tri%E1%BB%85n)
 
+## Tài liệu cho người dùng cuối
+ [tại đây](https://github.com/goupbaocao4305/trang-web-ban-hang/blob/Th%C3%A1i-Qu%E1%BB%91c-Anh/Nguoidungcuoi.md)
+
 # Kênh Truyền Thông
 fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3n-l%C3%BD-b%C3%A1n-h%C3%A0ng-Aspnet-186587715212966/?notif_t=page_invite_accepted&notif_id=1500185312002536/)
 
