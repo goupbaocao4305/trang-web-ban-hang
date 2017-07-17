@@ -104,7 +104,8 @@ fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3
 ## Danh sách lỗi:
 - Không hiện hình ảnh (đã khắc phục);
 - 1 số dòng CSDL không chỉnh sửa được;
-- 
+- Chưa đăng kí được
+
 -
 -
 -
