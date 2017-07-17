@@ -1,4 +1,4 @@
-# MÔN PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ (4305)
+# MÔN PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ (4305)
 
 #Tên đề tài : xây dựng trang web bán hàng
 
@@ -7,12 +7,12 @@
 Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có những bước phát triển vượt bậc trên thế giới cũng như trong nước. CNTT đã góp phần rất lớn cho sự phát triển kinh tế của nước ta trong thời kỳ đổi mới. Chính vì thế nhu cầu tin học hóa các chương trình quản lý hàng hóa cũng đang rất cần thiết để có thể đổi mới với quy định quản lý, đạt hiệu quả cao. 
 Ứng dụng tin học trong công tác quản lý đã phát triển mạnh mẽ giúp cho công tác quản lý ngày càng trở nên hiệu quả hơn như nâng cao hiệu suất trong công việc, đưa ra các báo cáo, các số liệu thống kê một cách nhanh chóng chính xác và kịp thời. Đồng thời nhờ có việc ứng dụng tin học đã tiết kiệm được rất nhiều thời gian, công sức của con người, nó làm giảm nhẹ bộ máy quản lý vốn rất cồng kềnh từ trước tới nay
 
-#Mô tả và mục tiêu dự án
+# Mô tả và mục tiêu dự án
 
-##Mô TẢ
-Ứng dụng ASP.net hỗ trợ quản lý cửa hàng tạp hóa có những chưc năng thêm, xóa, sửa hàng hóa. Thêm các chức năng tìm kiếm, thống kê
+## Mô TẢ:
+Ứng dụng ASP.net hỗ trợ quản lý cửa hàng tạp hóa có những chưc năng thêm, xóa, sửa hàng hóa. Thêm các chức năng tìm kiếm, thống kê.
 
-##MỤC TIÊU
+## MỤC TIÊU:
 Xây dựng 1 website cửa hàng tạp hóa đáp ứng nhu cầu của mọi khách hàng trong việc quản lý cũng như lựa chọn các loại sản phẩm  ưa thích  1 cách nhanh gọn tiết kiệm thời gian chi phí cũng như biết được giá cả của các loại sản phẩm trên thị trường
 
 ## Tác giả
