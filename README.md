@@ -1,6 +1,6 @@
 # MÔN PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ (4305)
 
-#Tên đề tài : xây dựng trang web bán hàng
+# Tên đề tài : xây dựng trang web bán hàng
 
 
                 
@@ -10,7 +10,8 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 # Mô tả và mục tiêu dự án
 
 ## Mô TẢ:
-Ứng dụng ASP.net hỗ trợ quản lý cửa hàng tạp hóa có những chưc năng thêm, xóa, sửa hàng hóa. Thêm các chức năng tìm kiếm, thống kê.
+WEBSITE ASP.net hỗ trợ quản lý cửa hàng tạp hóa có những chưc năng thêm, xóa, sửa hàng hóa. Thêm các chức năng tìm kiếm, thống kê.
+Ngoài  ra còn có giỏ hàng khi khách hàng  mua hàng hàng sẽ được thêm vào giỏ khi thanh toán sẽ sử dụng phương thức thanh toán bằng đăng ki.Website có chức năng phân quyền admin và user ,Admin có chức năng quản trị hệ thống giúp cho việc quản lý website 1 cách dễ dàng ,user chỉ có chức năng xem hàng và mua hàng .
 
 ## MỤC TIÊU:
 Xây dựng 1 website cửa hàng tạp hóa đáp ứng nhu cầu của mọi khách hàng trong việc quản lý cũng như lựa chọn các loại sản phẩm  ưa thích  1 cách nhanh gọn tiết kiệm thời gian chi phí cũng như biết được giá cả của các loại sản phẩm trên thị trường
@@ -99,3 +100,11 @@ fan page: [quản lý web ban hang](https://www.facebook.com/Website-Qu%E1%BA%A3
 
 
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
+
+## Danh sách lỗi:
+- Không hiện hình ảnh (đã khắc phục);
+- 1 số dòng CSDL không chỉnh sửa được;
+- 
+-
+-
+-
